@@ -1,0 +1,4 @@
+data.csv
+logistic_regression_model.joblib
+.ipynb_checkpoints/
+__pycache__/

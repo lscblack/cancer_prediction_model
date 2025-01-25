@@ -4,12 +4,16 @@
 This project demonstrates a simple machine learning model using logistic regression to predict whether a tumor is malignant or benign based on input features. The model is trained using the Scikit-learn library in Python.
 ## Link To Data
 - **kaggle Breast cancer**: [https://www.kaggle.com/datasets/uciml/breast-cancer-wisconsin-data]
+
+### Backend Api To Access Model Built
+FastApi For Backend (service.py)
 ---
 
 ## Features
 - **Binary Classification**: Predicts tumor malignancy (malignant or benign).
 - **Model Used**: Logistic Regression.
 - **Libraries**: Scikit-learn, Joblib, Pandas, NumPy, Matplotlib, and Seaborn.
+- **Frameworks**: FASTAPI
 
 ---
 
